@@ -6,6 +6,7 @@ kur pēctam šis teksts tiek nosūtīts uz OpenAI gpt-3.5-turbo modelim, kas nos
 
 video links:
 https://www.youtube.com/watch?v=i0cFrvsIB8Q
+
 Uzstādīšana pa soļiem:
 
     1) Lejuplādējam Android Studio
