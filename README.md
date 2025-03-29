@@ -1,6 +1,9 @@
 # AI-Projekts_un_Mobilas_Aplikacijas
 Apraksts:
 
+Mobīlā aplikācija, kas spēj nolasīt ienākošos zvanus un izmantojot OpenAI Whisper modeli STT, jeb speech to text transcripa izveidei,
+kur pēctam šis teksts tiek nosūtīts uz OpenAI gpt-3.5-turbo modelim, kas nosaka vai šajā teskā ir krāpniecisks nolūks un tiek parādīts paziņojums, ja ir.  
+
 video links:
 
 Uzstādīšana pa soļiem:
